@@ -22,3 +22,6 @@ Hello world (Who am I?)
  HELLO World!!!
 </body>
 </html>
+<p> today was a good day</p>
+<p> today was a<em>good</em> day</p>
+<p> <em> How's it going </em> How are you?</p> <p> Can you inform me of a <em>reliable </em>tech guy?</p>
